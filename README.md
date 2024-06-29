@@ -12,9 +12,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting up Splunk for Event Logging and Monitoring | <a href="https://google.com">Active Directory Project</a>|
-| Ingesting Events into Splunk | <a href="https://google.com">Active Directory Project</a>|
-| Installing and Configuring Active Directory        | Active Directory Project|
+| Setting up Splunk for Event Logging and Monitoring | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>|
+| Ingesting Events into Splunk | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>|
+| Installing and Configuring Active Directory        | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -23,9 +23,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Network
 <div>
+    <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -36,12 +35,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
+Follow links to verify certifications
 <div>
 <a href="https://www.credly.com/badges/fc8d585c-94f1-4ecf-b79d-8f67a901d690/linked_in_profile"><img src="https://img.shields.io/badge/-CYSA%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/50bfcf2d-c2cd-4110-9d79-9db444bcbf58/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
@@ -50,5 +49,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Active Directory Project
-- SOC Automation Project
+- <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>
