@@ -15,9 +15,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Setting up Splunk for Event Logging and Monitoring | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>|
 | Ingesting Events into Splunk | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>|
 | Installing and Configuring Active Directory        | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Performing cybersecurity tests using Atomic Red Team  | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>|
+| Analyzing and correlating security events in Splunk with the MITRE ATT&CK framework| <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>|
 
 ## Tools
 
@@ -30,13 +29,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Security Testing
+<div>
+    <img src="https://img.shields.io/badge/-Atomic_Red_Team-FF0000?&style=for-the-badge&logo=atomic-red-team&logoColor=white" />
 </div>
 
 ## Certifications
