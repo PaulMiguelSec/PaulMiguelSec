@@ -3,10 +3,10 @@
 
 I am currently working as an IT Support Engineer in the education sector. My interest lies in cybersecurity, and I am constantly learning and developing new skills in this exciting field. This GitHub repository showcases my projects and learning journey as I transition into a cybersecurity role.
 
-Feel free to explore my projects and connect with me. Let's collaborate and make the digital world a safer place!
+Feel free to explore my projects and connect with me.
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
