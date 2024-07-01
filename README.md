@@ -5,10 +5,10 @@ I am currently working as an IT Support Engineer in the education sector. My int
 
 Feel free to explore my projects and connect with me.
 
-## Objective
+## 🎯 Objective
 My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## 🛠 Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,7 +18,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Performing cybersecurity tests using Atomic Red Team  | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>|
 | Analyzing and correlating security events in Splunk with the MITRE ATT&CK framework| <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>|
 
-## Tools
+## 🧰 Tools
 
 ### Network
 <div>
@@ -41,7 +41,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
     <img src="https://img.shields.io/badge/-Atomic_Red_Team-FF0000?&style=for-the-badge&logo=atomic-red-team&logoColor=white" />
 </div>
 
-## Certifications
+## 📜 Certifications
 Follow links to verify certifications
 <div>
 <a href="https://www.credly.com/badges/fc8d585c-94f1-4ecf-b79d-8f67a901d690/linked_in_profile"><img src="https://img.shields.io/badge/-CYSA%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
@@ -50,5 +50,6 @@ Follow links to verify certifications
 <a href="https://www.credly.com/badges/7c4cfac1-94a8-4c4b-bf5d-af06fb4d109c/linked_in_profile"><img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 </div>
 
-## Projects
+## 📂 Projects
 - <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>
+
