@@ -6,7 +6,7 @@ I am currently working as an IT Support Engineer in the education sector. My int
 Feel free to explore my projects and connect with me.
 
 ## 🎯 Objective
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## 🛠 Skills
 
