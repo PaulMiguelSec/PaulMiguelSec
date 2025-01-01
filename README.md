@@ -1,7 +1,7 @@
 # Hello, I'm Paul Miguel Nieuwendyk
 <a href="https://www.linkedin.com/in/paul-miguel-nieuwendyk"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently working as an IT Support Engineer in the education sector. My interest lies in cybersecurity, and I am constantly learning and developing new skills in this exciting field. This GitHub repository showcases my projects and learning journey as I transition into a cybersecurity role.
+I am currently working as an IT Support Engineer. My interest lies in cybersecurity, and I am constantly learning and developing new skills in this exciting field. This GitHub repository showcases my projects and learning journey as I transition into a cybersecurity role.
 
 Feel free to explore my projects and connect with me.
 
