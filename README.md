@@ -12,11 +12,11 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting up Splunk for Event Logging and Monitoring | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>|
-| Ingesting Events into Splunk | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>|
-| Installing and Configuring Active Directory        | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>|
-| Performing cybersecurity tests using Atomic Red Team  | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>|
-| Analyzing and correlating security events in Splunk with the MITRE ATT&CK framework| <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>|
+| Setting up Splunk for Event Logging and Monitoring | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Lab</a>|
+| Ingesting Events into Splunk | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Lab</a>|
+| Installing and Configuring Active Directory        | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Lab</a>|
+| Performing cybersecurity tests using Atomic Red Team  | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Lab</a>|
+| Analyzing and correlating security events in Splunk with the MITRE ATT&CK framework| <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Lab</a>|
 
 ## 🧰 Tools
 
