@@ -51,5 +51,5 @@ Follow links to verify certifications
 </div>
 
 ## 📂 Projects
-- <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Project</a>
+- <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Lab</a>
 
