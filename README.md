@@ -52,5 +52,5 @@ Follow links to verify certifications
 
 ## 📂 Projects
 - <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Lab</a>
-- <a href="https://github.com/PaulMiguelSec/Vulnerability-Management-Program">Vulnerability Management Programme Implementation</a>
+- <a href="https://github.com/PaulMiguelSec/Vulnerability-Management-Programme">Vulnerability Management Programme Implementation</a>
 
