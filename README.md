@@ -12,11 +12,14 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting up Splunk for Event Logging and Monitoring | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Lab</a>|
-| Ingesting Events into Splunk | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Lab</a>|
-| Installing and Configuring Active Directory        | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Lab</a>|
-| Performing cybersecurity tests using Atomic Red Team  | <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Lab</a>|
-| Analyzing and correlating security events in Splunk with the MITRE ATT&CK framework| <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Lab</a>|
+| Setting up Splunk for Event Logging and Monitoring | [Active Directory Lab](https://github.com/PaulMiguelSec/Active-Directory-Lab) |
+| Ingesting Events into Splunk | [Active Directory Lab](https://github.com/PaulMiguelSec/Active-Directory-Lab) |
+| Installing and Configuring Active Directory        | [Active Directory Lab](https://github.com/PaulMiguelSec/Active-Directory-Lab) |
+| Performing cybersecurity tests using Atomic Red Team  | [Active Directory Lab](https://github.com/PaulMiguelSec/Active-Directory-Lab) |
+| Analyzing and correlating security events in Splunk with the MITRE ATT&CK framework| [Active Directory Lab](https://github.com/PaulMiguelSec/Active-Directory-Lab) |
+| Using Tenable for vulnerability scanning and assessment | [Vulnerability Management Programme](https://github.com/PaulMiguelSec/Vulnerability-Management-Programme) |
+| Creating and implementing a vulnerability management policy | [Vulnerability Management Programme](https://github.com/PaulMiguelSec/Vulnerability-Management-Programme) |
+| Managing full-cycle vulnerability remediation processes | [Vulnerability Management Programme](https://github.com/PaulMiguelSec/Vulnerability-Management-Programme) |
 
 ## 🧰 Tools
 
@@ -29,6 +32,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C89?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
 </div>
 
 ### SIEM
@@ -39,7 +43,20 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ### Security Testing
 <div>
     <img src="https://img.shields.io/badge/-Atomic_Red_Team-FF0000?&style=for-the-badge&logo=atomic-red-team&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-2E6DBF?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </div>
+
+### Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=Tenable&logoColor=white" />
+</div>
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+</div>
+
 
 ## 📜 Certifications
 Follow links to verify certifications
