@@ -66,6 +66,9 @@ Follow links to verify certifications
 <a href="https://www.credly.com/badges/22787c28-09e7-4864-93a0-e47ca764bb5f/linked_in_profile"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/7c4cfac1-94a8-4c4b-bf5d-af06fb4d109c/linked_in_profile"><img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 </div>
+<div>
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/PaulMiguelNieuwendyk-5383/82949AED72B311C0?sharingId"><img src="https://img.shields.io/badge/-AZ%20900-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /></a>
+</div>
 
 ## 📂 Projects
 - <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Lab</a>
