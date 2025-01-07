@@ -20,6 +20,9 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Using Tenable for vulnerability scanning and assessment | [Vulnerability Management Programme](https://github.com/PaulMiguelSec/Vulnerability-Management-Programme) |
 | Creating and implementing a vulnerability management policy | [Vulnerability Management Programme](https://github.com/PaulMiguelSec/Vulnerability-Management-Programme) |
 | Managing full-cycle vulnerability remediation processes | [Vulnerability Management Programme](https://github.com/PaulMiguelSec/Vulnerability-Management-Programme) |
+| Threat Hunting with KQL and EDR Tools | [Threat Hunting Scenario 1](https://github.com/PaulMiguelSec/Threat-Hunting-Scenario-1) |
+| TTP Identification Using MITRE ATT&CK Framework | [Threat Hunting Scenario 1](https://github.com/PaulMiguelSec/Threat-Hunting-Scenario-1) |
+| Incident Response and Mitigation | [Threat Hunting Scenario 1](https://github.com/PaulMiguelSec/Threat-Hunting-Scenario-1) |
 
 ## 🧰 Tools
 
