@@ -17,12 +17,9 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Managing full-cycle vulnerability remediation processes | [Vulnerability Management Programme](https://github.com/PaulMiguelSec/Vulnerability-Management-Programme) |
 | IR/Threat Hunting with KQL and Defender for Endpoint | [Threat Hunting Scenario 1](https://github.com/PaulMiguelSec/Threat-Hunting-Scenario-1), [Incident Response Scenario](https://github.com/PaulMiguelSec/Incident-Response-Scenario) |
 | TTP Identification Using MITRE ATT&CK Framework | [Threat Hunting Scenario 1](https://github.com/PaulMiguelSec/Threat-Hunting-Scenario-1), [Incident Response Scenario](https://github.com/PaulMiguelSec/Incident-Response-Scenario) |
-| Incident Response and Mitigation | [Threat Hunting Scenario 1](https://github.com/PaulMiguelSec/Threat-Hunting-Scenario-1), [Incident Response Scenario](https://github.com/PaulMiguelSec/Incident-Response-Scenario) |
 | Setting up Splunk for Event Logging and Monitoring | [Active Directory Lab](https://github.com/PaulMiguelSec/Active-Directory-Lab) |
-| Ingesting Events into Splunk | [Active Directory Lab](https://github.com/PaulMiguelSec/Active-Directory-Lab) |
 | Installing and Configuring Active Directory        | [Active Directory Lab](https://github.com/PaulMiguelSec/Active-Directory-Lab) |
-| Performing cybersecurity tests using Atomic Red Team  | [Active Directory Lab](https://github.com/PaulMiguelSec/Active-Directory-Lab) |
-| Analyzing and correlating security events in Splunk with the MITRE ATT&CK framework| [Active Directory Lab](https://github.com/PaulMiguelSec/Active-Directory-Lab) |
+
 
 ## 🧰 Tools
 
