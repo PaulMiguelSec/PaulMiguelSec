@@ -76,4 +76,5 @@ Follow links to verify certifications
 ## 📂 Projects
 - <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Lab</a>
 - <a href="https://github.com/PaulMiguelSec/Vulnerability-Management-Programme">Vulnerability Management Programme Implementation</a>
-
+- [Threat Hunting Scenario 1](https://github.com/PaulMiguelSec/Threat-Hunting-Scenario-1)
+- [Incident Response Scenario](https://github.com/PaulMiguelSec/Incident-Response-Scenario) 
