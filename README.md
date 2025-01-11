@@ -72,7 +72,9 @@ Follow links to verify certifications
 </div>
 
 ## 📂 Projects
-- <a href="https://github.com/PaulMiguelSec/Active-Directory-Lab">Active Directory Lab</a>
-- <a href="https://github.com/PaulMiguelSec/Vulnerability-Management-Programme">Vulnerability Management Programme Implementation</a>
-- [Threat Hunting Scenario 1](https://github.com/PaulMiguelSec/Threat-Hunting-Scenario-1)
-- [Incident Response Scenario](https://github.com/PaulMiguelSec/Incident-Response-Scenario) 
+- [Threat Hunting Projects](https://github.com/PaulMiguelSec/Threat-Hunting-Projects)
+  - [Threat Hunt Scenario: Data Exfiltration from Employee on PIP](https://github.com/PaulMiguelSec/Threat-Hunting-Projects/blob/main/Threat%20Hunt%20Scenario%3A%20Data%20Exfiltration%20from%20PIP'd%20Employee.md)
+  - [Threat Hunt Scenario: Unauthorized TOR Usage](https://github.com/PaulMiguelSec/Threat-Hunting-Projects/blob/main/Threat%20Hunt%20Scenario%3A%20Unauthorized%20TOR%20Usage.md)
+- [Vulnerability Management Programme Implementation](https://github.com/PaulMiguelSec/Vulnerability-Management-Programme)
+- [Incident Response Scenario](https://github.com/PaulMiguelSec/Incident-Response-Scenario)
+- [Active Directory Lab](https://github.com/PaulMiguelSec/Active-Directory-Lab)
