@@ -78,4 +78,5 @@ Follow links to verify certifications
   - [Threat Hunt Scenario: Unauthorized TOR Usage](https://github.com/PaulMiguelSec/Threat-Hunting-Projects/blob/main/Threat%20Hunt%20Scenario%3A%20Unauthorized%20TOR%20Usage.md)
 - [Vulnerability Management Programme Implementation](https://github.com/PaulMiguelSec/Vulnerability-Management-Programme)
 - [Incident Response Scenario](https://github.com/PaulMiguelSec/Incident-Response-Scenario)
+- [CIS Programmatic Implementation](https://github.com/PaulMiguelSec/CIS-Programmatic-Implementation)
 - [Active Directory Lab](https://github.com/PaulMiguelSec/Active-Directory-Lab)
