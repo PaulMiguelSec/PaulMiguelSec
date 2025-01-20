@@ -1,7 +1,7 @@
 # Hello, I'm Paul Miguel Nieuwendyk
 <a href="https://www.linkedin.com/in/paul-miguel-nieuwendyk"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently working as an IT Engineer. My interest lies in cybersecurity, and I am constantly learning and developing new skills in this exciting field. This GitHub repository showcases my projects and learning journey as I transition into a cybersecurity role.
+I am an IT Engineer with a strong focus on cybersecurity. Driven by curiosity and a commitment to staying ahead in this dynamic field, this GitHub repository highlights my projects and practical experience in areas like threat detection and vulnerability management.
 
 Feel free to explore my projects and connect with me.
 
